@@ -11,6 +11,7 @@ function App() {
       <h4>Updated Time_fake</h4>
       <h2>Update</h2>
       <h2>6days</h2>
+      <h2>31oct</h2>
     </div>
   );
 }
