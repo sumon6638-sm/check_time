@@ -12,6 +12,7 @@ function App() {
       <h2>Update</h2>
       <h2>6days</h2>
       <h2>31oct</h2>
+      <h2>update3</h2>
     </div>
   );
 }
